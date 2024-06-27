@@ -1,0 +1,6 @@
+Computer: ruchitha-G3-3500
+Linux Kernel info: Linux ruchitha-G3-3500 5.8.0-43-generic #49~20.04.1-Ubuntu SMP Fri Feb 5 09:57:56 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+Shell version: 5.0.17(1)-release
+Computer: ruchitha-G3-3500
+Linux Kernel info: Linux ruchitha-G3-3500 5.8.0-43-generic #49~20.04.1-Ubuntu SMP Fri Feb 5 09:57:56 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+Shell version: 5.0.17(1)-release

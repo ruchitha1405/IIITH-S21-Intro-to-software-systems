@@ -1,0 +1,10 @@
+email,profession,travel,symptomatic,chronic
+vits,Healthcare,No,No,Yes
+loks,Healthcare,No,Yes,No
+divs,Healthcare,Yes,Yes,No
+pams,Police,No,No,Yes
+hamsa,Police,Yes,No,Yes
+bhargs,Police,Yes,Yes,No
+viswa,IT,No,No,Yes
+viswa,IT,Yes,No,No
+viswa,IT,Yes,Yes,Yes

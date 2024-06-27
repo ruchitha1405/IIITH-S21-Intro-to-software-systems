@@ -1,0 +1,10 @@
+email,profession,travel,symptomatic,chronic,results
+vits,Healthcare,No,No,Yes,High Risk
+loks,Healthcare,No,Yes,No,High Risk
+divs,Healthcare,Yes,Yes,No,High Risk
+pams,Police,No,No,Yes,Moderate Risk
+hamsa,Police,Yes,No,Yes,High Risk
+bhargs,Police,Yes,Yes,No,High Risk
+viswa,IT,No,No,Yes,Low Risk
+viswa,IT,Yes,No,No,Moderate Risk
+viswa,IT,Yes,Yes,Yes,High Risk
